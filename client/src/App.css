@@ -1,0 +1,32 @@
+.app {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.game-container {
+  margin: 20px;
+}
+
+.question-section {
+  margin-bottom: 20px;
+}
+
+.question-count {
+  margin-bottom: 10px;
+}
+
+.question-text {
+  margin-bottom: 20px;
+}
+
+.answer-section button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.score-section {
+  font-size: 24px;
+  font-weight: bold;
+}
