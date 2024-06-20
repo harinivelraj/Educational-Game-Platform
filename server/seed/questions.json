@@ -1,0 +1,109 @@
+
+{
+  "nutrition": [
+    {
+      "question": "What is the recommended daily intake of water for adults?",
+      "options": ["1 liter", "2 liters", "3 liters", "4 liters"],
+      "answer": "2 liters"
+    },
+    {
+      "question": "Which nutrient is essential for strong bones and teeth?",
+      "options": ["Vitamin C", "Calcium", "Iron", "Potassium"],
+      "answer": "Calcium"
+    },
+    {
+      "question": "Which food is a good source of protein?",
+      "options": ["Banana", "Pasta", "Chicken", "Ice cream"],
+      "answer": "Chicken"
+    },
+    {
+      "question": "What is the main function of carbohydrates in the body?",
+      "options": ["Provide energy", "Build muscles", "Regulate hormones", "Improve vision"],
+      "answer": "Provide energy"
+    },
+    {
+      "question": "Which vitamin is known as the 'sunshine vitamin'?",
+      "options": ["Vitamin A", "Vitamin D", "Vitamin E", "Vitamin K"],
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "What percentage of your daily calories should come from carbohydrates?",
+      "options": ["10-15%", "20-30%", "40-50%", "60-70%"],
+      "answer": "40-50%"
+    },
+    {
+      "question": "Which type of fat is considered healthy for the heart?",
+      "options": ["Saturated fat", "Trans fat", "Polyunsaturated fat", "Monounsaturated fat"],
+      "answer": "Monounsaturated fat"
+    },
+    {
+      "question": "What is the main source of omega-3 fatty acids?",
+      "options": ["Fish", "Red meat", "Eggs", "Milk"],
+      "answer": "Fish"
+    },
+    {
+      "question": "Which mineral helps in regulating blood pressure?",
+      "options": ["Sodium", "Calcium", "Potassium", "Iron"],
+      "answer": "Potassium"
+    },
+    {
+      "question": "What is the primary role of fiber in the diet?",
+      "options": ["Improve digestion", "Boost energy", "Enhance memory", "Strengthen bones"],
+      "answer": "Improve digestion"
+    }
+  ],
+  "yoga": [
+    {
+      "question": "Which yoga pose helps improve balance and concentration?",
+      "options": ["Corpse Pose", "Warrior Pose", "Tree Pose", "Plank Pose"],
+      "answer": "Tree Pose"
+    },
+    {
+      "question": "What is the purpose of meditation in yoga?",
+      "options": ["Improve flexibility", "Reduce stress", "Increase heart rate", "Improve digestion"],
+      "answer": "Reduce stress"
+    },
+    {
+      "question": "Which breathing technique is known as 'Yogic Breathing'?",
+      "options": ["Kapalbhati", "Anulom Vilom", "Bhastrika", "Ujjayi"],
+      "answer": "Ujjayi"
+    },
+    {
+      "question": "Which yoga pose stretches the spine and strengthens the back muscles?",
+      "options": ["Cobra Pose", "Child's Pose", "Cat-Cow Pose", "Downward Dog"],
+      "answer": "Cobra Pose"
+    },
+    {
+      "question": "What is the literal translation of 'Hatha' in Hatha Yoga?",
+      "options": ["Breath control", "Forceful", "Sun and Moon", "Meditative posture"],
+      "answer": "Forceful"
+    },
+    {
+      "question": "Which yoga practice involves rapid breathing exercises?",
+      "options": ["Pranayama", "Kriya Yoga", "Ashtanga Yoga", "Vinyasa Yoga"],
+      "answer": "Kriya Yoga"
+    },
+    {
+      "question": "What is the primary focus of Bikram Yoga?",
+      "options": ["Strength training", "Flexibility", "Heat and humidity", "Meditation"],
+      "answer": "Heat and humidity"
+    },
+    {
+      "question": "Which yoga pose is known for improving digestion?",
+      "options": ["Boat Pose", "Seated Forward Bend", "Twisting Chair Pose", "Child's Pose"],
+      "answer": "Twisting Chair Pose"
+    },
+    {
+      "question": "What does 'Namaste' mean in yoga?",
+      "options": ["Hello", "Goodbye", "Peace", "I bow to you"],
+      "answer": "I bow to you"
+    },
+    {
+      "question": "Which yoga practice involves holding poses for an extended duration?",
+      "options": ["Vinyasa Yoga", "Iyengar Yoga", "Kundalini Yoga", "Yin Yoga"],
+      "answer": "Iyengar Yoga"
+    }
+  ]
+}
+
+  
